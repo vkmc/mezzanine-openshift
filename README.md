@@ -1,3 +1,5 @@
+**This project is no longer under development. See the official Mezzanine documentation for other alternatives.**
+
 # mezzanine-openshift
 
 This project is to provide the simplest way possible to run mezzanine on the
