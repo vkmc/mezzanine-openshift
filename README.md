@@ -1,4 +1,4 @@
-**This project is no longer under development. See the official Mezzanine documentation for other alternatives.**
+**This project has been forked from https://github.com/stephenmcd/mezzanine and updated to support latest Mezzanine**
 
 # mezzanine-openshift
 
@@ -18,7 +18,7 @@ Install the RHC client tools if you have not already done so:
 
 Create a python-2.6 application
 
-    rhc app create -a mezzanine -t python-2.6
+    rhc app create -a mezzanine -t python-3.3
 
 Add this upstream repo
 

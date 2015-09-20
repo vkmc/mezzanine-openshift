@@ -4,14 +4,12 @@ from setuptools import setup
 
 setup(
     name='mezzanine-openshift',
-    version='1.2',
+    version='1.3',
     description='Mezzanine configured for deployment on OpenShift.',
-    author='Isaac Bythewood',
-    author_email='isaac@bythewood.me',
-    url='http://isaacbythewood.com/',
+    author='Victoria Martinez de la Cruz',
+    author_email='victoria@vmartinezdelacruz.com',
+    url='http://vmartinezdelacruz.com/',
     install_requires=[
-        'Django==1.5.1',
-        'mezzanine==1.4.7',
-        'django_compressor==1.3'
+        'mezzanine==4.0.1',
     ],
 )
